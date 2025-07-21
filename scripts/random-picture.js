@@ -8,12 +8,12 @@ const totalImages = 123; // Ajusta según la cantidad real
 
 // Objeto con títulos y descripciones personalizados
 const infoImagenes = {
-    1: {titulo: "Nuestra primera imagen", descripcion: "toco recortarla pq salio la reina de sapa."},
-    2: {titulo: "Imagen especial 2", descripcion: "Descripción destacada para la imagen 2."},
-    3: {titulo: "Imagen especial 3", descripcion: "Descripción destacada para la imagen 3."},
-    4: { titulo: "Fiesta de colores", descripcion: "Una explosión de colores y alegría."},
-    5: { titulo: "Paisaje nocturno", descripcion: "Un paisaje sereno bajo la luz de la luna."},
-    6: { titulo: "Ciudad futurista",descripcion: "Rascacielos y luces en un mundo del mañana."},
+    1: { titulo: "Nuestra primera imagen", descripcion: "toco recortarla pq salio la reina de sapa." },
+    2: { titulo: "Imagen especial 2", descripcion: "Descripción destacada para la imagen 2." },
+    3: { titulo: "Imagen especial 3", descripcion: "Descripción destacada para la imagen 3." },
+    4: { titulo: "Fiesta de colores", descripcion: "Una explosión de colores y alegría." },
+    5: { titulo: "Paisaje nocturno", descripcion: "Un paisaje sereno bajo la luz de la luna." },
+    6: { titulo: "Ciudad futurista", descripcion: "Rascacielos y luces en un mundo del mañana." },
     7: { titulo: "Imagen 7", descripcion: "Descripción de la imagen 7" },
     8: { titulo: "Imagen 8", descripcion: "Descripción de la imagen 8" },
     9: { titulo: "Imagen 9", descripcion: "Descripción de la imagen 9" },
@@ -40,7 +40,7 @@ const infoImagenes = {
     30: { titulo: "Imagen 30", descripcion: "Descripción de la imagen 30" },
     31: { titulo: "Imagen 31", descripcion: "Descripción de la imagen 31" },
     32: { titulo: "Imagen 32", descripcion: "Descripción de la imagen 32" },
-    33: { titulo: "Mimida", descripcion: "Que linda te ves dormida amor, ojala algun dia al levantarme verte dormidita sea lo que inicie mis mañanas. Un sueño."},
+    33: { titulo: "Mimida", descripcion: "Que linda te ves dormida amor, ojala algun dia al levantarme verte dormidita sea lo que inicie mis mañanas. Un sueño." },
     34: { titulo: "Imagen 34", descripcion: "Descripción de la imagen 34" },
     35: { titulo: "Imagen 35", descripcion: "Descripción de la imagen 35" },
     36: { titulo: "Imagen 36", descripcion: "Descripción de la imagen 36" },
