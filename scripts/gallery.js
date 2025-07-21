@@ -1,7 +1,7 @@
 // --- SCRIPT DE LA GALERÍA ---
 
 // Define el número total de imágenes que tienes.
-const totalImages = 142; 
+const totalImages = 167; 
 const gallery = document.getElementById('gallery');
 
 // Bucle para crear y añadir cada imagen a la galería.
