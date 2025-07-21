@@ -121,7 +121,7 @@ const infoImagenes = {
     111: { titulo: "Imagen 111", descripcion: "Descripción de la imagen 111" },
     112: { titulo: "Imagen 112", descripcion: "Descripción de la imagen 112" },
     113: { titulo: "Imagen 113", descripcion: "Descripción de la imagen 113" },
-    114: { titulo: "MIO,", descripcion: "Imagenes muy necesarias, que culote tienes dios mio, la proxima va a ser sin nada encima, solo yo y ese pedazo de culo recibiendo mi beso." },
+    114: { titulo: "MIO.", descripcion: "Dios mio que culote tienes amor, es perfecto. La proxima foto va a ser sin nada encima, solo yo y ese pedazo de culo al natural para mi solito." },
     115: { titulo: "Imagen 115", descripcion: "Descripción de la imagen 115" },
     116: { titulo: "Imagen 116", descripcion: "Descripción de la imagen 116" },
     117: { titulo: "Imagen 117", descripcion: "Descripción de la imagen 117" },
