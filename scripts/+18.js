@@ -19,12 +19,12 @@ document.addEventListener('DOMContentLoaded', function () {
         if (isLate) {
             // Si el modo oscuro está activo, muestra la imagen "de-ella.webp"
             if (isDark) {
-                img.src = 'assets/images/de-ella.webp';
-            // Si no, muestra la imagen "ella-2.webp"
+                img.src = 'assets/images/+18/de-ella.webp';
+                // Si no, muestra la imagen "ella-2.webp"
             } else {
-                img.src = 'assets/images/ella-2.webp';
+                img.src = 'assets/images/+18/ella-2.webp';
             }
-        // Si no es entre la 1am y las 4am, muestra la imagen "ella.webp"
+            // Si no es entre la 1am y las 4am, muestra la imagen "ella.webp"
         } else {
             img.src = 'assets/images/ella.webp';
         }
