@@ -1,0 +1,19 @@
+:root {
+    /* Paleta para el tema "rojo" */
+    --color-fondo: #f3d1d1; /* Un rojo muy pálido, casi blanco rosado, para el fondo principal claro */
+    --color-texto: #333333; /* Color base para el texto, un gris oscuro para buena legibilidad */
+    --color-primario: #ffffff9a; /* Fondo de contenedores principales, blanco puro para contraste */
+    --color-secundario: #E53935; /* Rojo vibrante, color principal para botones y acentos */
+    --color-secundario-hover: #C62828; /* Rojo más oscuro para botones al pasar el mouse */
+    --color-titulo: #B71C1C; /* Rojo oscuro intenso para títulos */
+    --color-subtitulo: #4e4d4d; /* Gris medio para subtítulos */
+
+    /* Variables para modo oscuro en el tema "rojo" */
+    --dark-fondo: #662727; /* Fondo principal en modo oscuro, un rojo muy oscuro y profundo */
+    --dark-texto: #F8F9FA; /* Texto claro en modo oscuro */
+    --dark-primario: #741515da; /* Fondo de contenedores en modo oscuro, un rojo oscuro */
+    --dark-titulo: #FFCDD2; /* Rojo claro para títulos en modo oscuro */
+    --dark-subtitulo: #E0E0E0; /* Gris claro para subtítulos en modo oscuro */
+    --dark-boton: #E53935; /* Rojo claro brillante para botón principal en modo oscuro */
+    --dark-boton-hover: #FF5252; /* Rojo más saturado para botón hover en modo oscuro */
+}

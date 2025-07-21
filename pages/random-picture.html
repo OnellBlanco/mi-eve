@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Enlaza la hoja de estilos específica para esta página -->
+    <link rel="stylesheet" href="../assets/styles/style-random.css">
+    <!-- Scripts para funcionalidades de tema y modo oscuro, y para cambiar la imagen aleatoria -->
+    <script src="../scripts/dark-mode.js" defer></script>
+    <script src="../scripts/random-picture.js" defer></script>
+    <title>Algo Grande</title>
+
+</head>
+
+<body>
+    <!-- Selector de imagen por número -->
+    <label for="selectorImagen">Ir a imagen número:</label>
+    <select id="selectorImagen">
+        <!-- Opciones se generan dinámicamente -->
+    </select>
+
+
+    <!-- Encabezado con botón para alternar modo oscuro -->
+    <div class="header">
+        <!-- Botón para alternar el modo oscuro -->
+        <button id="darkModeToggle" class="dark-mode-toggle">🦜</button>
+    </div>
+
+    <div class="main-content">
+        <a href="../index.html" class="button">
+            <img src="../assets/icons/back.svg">
+        </a>
+
+        <div class="foto-contenido">
+            <h1 class="title-main">Nuestra primera foto.</h1>
+            <img src="../assets/images/images-random-picture/img-random-1.webp" class="picture">
+            <h2 class="description">
+                La reina salió de sapa y nunca pudiste tomarte la foto con ella amor, debí obligarte.
+            </h2>
+        </div>
+
+        <a class="button" id="btn">
+            <img src="../assets/icons/random.svg">
+        </a>
+    </div>
+</body>
+
+</html>

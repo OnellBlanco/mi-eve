@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- 1. Enlaza tu archivo CSS -->
+    <link rel="stylesheet" href="../assets/styles/style-gallery.css">
+    <!-- 2. Enlaza tus archivos JavaScript al final del body -->
+    <script src="../scripts/dark-mode.js" defer></script>
+    <script src="../scripts/gallery.js" defer></script>
+    <title>Nuestra Galería</title>
+</head>
+
+<body>
+    
+
+    <!-- Encabezado con botones -->
+    <div class="header">
+        <a href="../index.html" class="button">
+            <img src="../assets/icons/back.svg">
+        </a>
+        <button id="darkModeToggle" class="dark-mode-toggle">🦜</button>
+    </div>
+
+    <!-- Contenedor de la Galería -->
+    <div class="gallery-container">
+        <h1 class="title">Nuestra Galería ❤️</h1>
+        <!-- El JavaScript llenará esta sección con las imágenes -->
+        <div id="gallery" class="gallery-masonry"></div>
+    </div>
+
+    <div id="imageModal" class="modal">
+        <div id="modalContent" class="modal-content">
+            <img id="modalImage" src="" alt="Imagen ampliada">
+            <p id="modalText"></p>
+        </div>
+    </div>
+</body>
+
+</html>
