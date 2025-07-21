@@ -8,14 +8,14 @@ const totalImages = 123; // Ajusta según la cantidad real
 
 // Objeto con títulos y descripciones personalizados
 const infoImagenes = {
-    1: { titulo: "Nuestra primera imagen", descripcion: "toco recortarla pq salio la reina de sapa." },
-    2: { titulo: "Imagen especial 2", descripcion: "Descripción destacada para la imagen 2." },
-    3: { titulo: "Imagen especial 3", descripcion: "Descripción destacada para la imagen 3." },
-    4: { titulo: "Fiesta de colores", descripcion: "Una explosión de colores y alegría." },
-    5: { titulo: "Paisaje nocturno", descripcion: "Un paisaje sereno bajo la luz de la luna." },
-    6: { titulo: "Ciudad futurista", descripcion: "Rascacielos y luces en un mundo del mañana." },
-    7: { titulo: "Imagen 7", descripcion: "Descripción de la imagen 7" },
-    8: { titulo: "Imagen 8", descripcion: "Descripción de la imagen 8" },
+    1: { titulo: "Nuestra primera imagen.", descripcion: "toco recortarla pq salio la reina de sapa." },
+    2: { titulo: "Dia de abandono.", descripcion: "Me abandonaste, pobre yo, pero que rica tu, siempre igual de presiosa, cada parte de ti es arte." },
+    3: { titulo: "Estos estados.", descripcion: "Siempre que me subes a tu estado diciendo cosas como estas se me hacen agua los ojos." },
+    4: { titulo: "Fiesta de colores.", descripcion: "Una explosión de colores y alegría." },
+    5: { titulo: "Paisaje nocturno.", descripcion: "Un paisaje sereno bajo la luz de la luna." },
+    6: { titulo: "Ciudad futurista.", descripcion: "Rascacielos y luces en un mundo del mañana." },
+    7: { titulo: "Imagen 7.", descripcion: "Descripción de la imagen 7." },
+    8: { titulo: "Imagen 8.", descripcion: "Descripción de la imagen 8." },
     9: { titulo: "Imagen 9", descripcion: "Descripción de la imagen 9" },
     10: { titulo: "Imagen 10", descripcion: "Descripción de la imagen 10" },
     11: { titulo: "Imagen 11", descripcion: "Descripción de la imagen 11" },
