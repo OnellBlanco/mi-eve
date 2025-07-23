@@ -14,7 +14,7 @@ const infoImagenes = {
     4: { titulo: "Que linda.", descripcion: "Muy linda amor, me encanta esta foto." },
     5: { titulo: "No estoy seguro.", descripcion: "Creo que esta fue una de las fotos que vi en la aplicacion esa, precioso ese pelo, divino." },
     6: { titulo: "El fondo de pantalla perfecto.", descripcion: "Es mi fondo de pantalla, mis dos amores, nada mas que agregar." },
-    7: { titulo: "Mi 31.", descripcion: "La mejor parte de mi 31 fue todo el rato que pase hablando contigo. Entre tantos intentos pude sacarte la foto sonriendo, ya te he dicho que tu sonrisa es perfecta?, la amo. Que apetecibles se te veian las tetas en esa llamada, nada recordar siento como se me para." },
+    7: { titulo: "Mi 31.", descripcion: "La mejor parte de mi 31 fue todo el rato que pase hablando contigo, y en eso mismo se resumio mi semana en San Onofre. Entre tantos intentos pude sacarte la foto sonriendo, ya te he dicho que tu sonrisa es perfecta?, la amo. Que apetecibles se te veian las tetas en esa llamada, nada recordar siento como se me para." },
     8: { titulo: "Capturas random.", descripcion: "Se que no te gustan, a mi me fascinan." },
     9: { titulo: "Mis dos amores.", descripcion: "Mirate la carita jsakjsakja. De mis fotos favoritas" },
     10: { titulo: "El chuerk.", descripcion: "JAJAJAJAJAJAAJAJAJ de mis favoritas, no es real amor, no debes preocuparte." },
