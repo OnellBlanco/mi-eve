@@ -7,7 +7,6 @@ const gallery = document.getElementById('gallery');
 // Bucle para crear y añadir cada imagen a la galería.
 for (let i = 1; i <= totalImages; i++) {
     const img = document.createElement('img');
-
     // IMPORTANTE: Usa la ruta correcta a tus imágenes.
     img.src = `../assets/images/images-gallery/img-gallery-${i}.webp`;
     img.alt = `photo ${i}`;
@@ -167,132 +166,132 @@ for (let i = 1; i <= totalImages; i++) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'AL TIBURON YO LO SIGO DONDE JUEGUE YO LO QUIERO DE VERDAD, el cumple de tu primito con tematica de junior, espectacular, me fui temprano, me hubiera gustado pasar mas tiempo contigo ese dia.');
     }
-    
+
     if (i === 53) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Otra rueda de cumbia, pero muy meh, tu disfrutaste, yo te vi hacerlo.');
     }
-    
+
     if (i === 57) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'De mis favoritas, mi primer fondon de pantalla de nosotros. Ni eramos novios, atrevida.');
     }
-    
+
     if (i === 58) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'De mis favoritas, ni recuerdo que hicimos ese dia.');
     }
-    
+
     if (i === 59) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', '7 de diciembre, dia de velitas, dia de mes, foto perfecta, mujer perfecta, dia perfecto, te amo con todo mi ser.');
     }
-    
+
     if (i === 60) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'De este dia hay muchas que me gustan, recuerdo que fuiste a grabar un video, te veias preciosa a mas no poder.');
     }
-    
+
     if (i === 61) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Creo que se la mande a Cristian jhakaja.');
     }
 
-    
+
     if (i === 62) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Besito.');
     }
 
-    
+
     if (i === 63) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Fotos para el cel, creo que tambien cumplimos mes ahi, hemos cumplidos muchos meses, que maravilla.');
     }
 
-    
+
     if (i === 66) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'MI SEGUNDA FOTO FAVORITA, es perfecta.');
     }
 
-    
+
     if (i === 67) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'La lectura del bando, buen dia, agradecido contigo por llevarme a verte. Sali en una foto con todos los padres y me felicitaron el dia del padre. Te voy a preñar.');
     }
 
-    
+
     if (i === 72) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Ese dia te di los audifonos y tambien me di los mios.');
     }
 
-    
+
     if (i === 73) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Yo porque me rio tanto?.');
     }
 
-    
+
     if (i === 74) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'El de la toalla es cachaco.');
     }
 
-    
+
     if (i === 76) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'La tercera vez que nos vimos, mas nunca te volvi a ver con esa camisa. Ese mismo dia conoci a tu mamá. Me dio miedo');
     }
 
-    
+
     if (i === 82) {
         img.setAttribute('data-card', 'true');
-            img.setAttribute('data-text', 'No tiene precio, te emocionaste mas que yo por mi cumpleaños y lo hiciste un dia especial, siempre te voy a agradecer por eso. Pasamos todo el dia juntos, fue maravilloso, en mi mente queda como mi mejor cumpleaños.');
+        img.setAttribute('data-text', 'No tiene precio, te emocionaste mas que yo por mi cumpleaños y lo hiciste un dia especial, siempre te voy a agradecer por eso. Pasamos todo el dia juntos, fue maravilloso, en mi mente queda como mi mejor cumpleaños.');
     }
 
-    
+
     if (i === 84) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'No le hagas caso a mi cara, por dentro estaba mas feliz que 10.');
     }
-    
+
     if (i === 85) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Esta foto es muy tu, me encanta.');
     }
-    
+
     if (i === 86) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Mi fondo de pantalla anterior y otra foto muy tu, me encanta.');
     }
-    
+
     if (i === 87) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'No se si poner algo aca, fueron dias tristes.');
     }
-    
+
     if (i === 89) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Me acuerdo de mi estado del 24 y me muero de risa hjahajshsakja. De mis fotos favoritas.');
     }
-    
+
     if (i === 90) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Mi tercera foto favorita, fue mucho tiempo mi fondo de pantalla.');
     }
-    
+
     if (i === 97) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Otra vez animados.');
     }
-    
+
     if (i === 99) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Otra de mis fotos favoritas, tu sonrisa es perfecta.');
     }
-    
+
     if (i === 100) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Esa falda.');
@@ -302,77 +301,77 @@ for (let i = 1; i <= totalImages; i++) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Aqui sonrio, a veces siento tanta felicidad a tu lado que se desborda en una sonrisa.');
     }
-    
+
     if (i === 103) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Divinas.');
     }
-    
+
     if (i === 104) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Era un juego de pizzas. Recuerdo que me echabas de tu casa hashjajha.');
     }
-    
+
     if (i === 106) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Onde Kevin.');
     }
-    
+
     if (i === 107) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Zapatos.');
     }
-    
+
     if (i === 108) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Tus zapatos, literalmente tus zapatos.');
     }
-    
+
     if (i === 109) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Nuestros cultivos.');
     }
-    
+
     if (i === 111) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Esa falda.');
     }
-    
+
     if (i === 113) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'CINEEEEEEEEEEE, que linda te veias viendo Lilo y Stich, una niña, mi niña. Gracias por llevarme contigo.');
     }
-    
+
     if (i === 116) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Parezco un loquito.');
     }
-    
+
     if (i === 122) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Esa falda.');
     }
-    
+
     if (i === 121) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Mi mano jodio horriblemente esta foto.');
     }
-    
+
     if (i === 125) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Recuerdo este dia, perdón.');
     }
-    
+
     if (i === 127) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Dia de verte bailar.');
     }
-    
+
     if (i === 130) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'La del super hombre, que buena peli, gracias por acompañarme amor.');
     }
-    
+
     if (i === 131) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Osea desde ya se notaba que el idiota de tu novio tenia la camisa al reves y tu ni por ahi de decirle algo, OK.');
@@ -382,22 +381,22 @@ for (let i = 1; i <= totalImages; i++) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Asi deberiamos estar la mayor parte del tiempo, tranquilitos y sin que nadie nos diga algo.');
     }
-    
+
     if (i === 141) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'De mis favoritas.');
     }
-    
+
     if (i === 142) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'De mis favoritas, me encanta como en el malecon la brisa te revuelca el pelo.');
     }
-    
+
     if (i === 143) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Pontela mas en serio porfa, no solo la uses para sudarla.');
     }
-    
+
     if (i === 146) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Dia de gym con mi gymbro fav.');
@@ -407,27 +406,27 @@ for (let i = 1; i <= totalImages; i++) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Creo que este fue el dia de Lilo y Stich, entonces aca te agradezco por llevarme a ver Como entrenar a tu dragon, en serio gracias amor.');
     }
-    
+
     if (i === 159) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Onde Kevin.');
     }
-    
+
     if (i === 161) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Extraño los dias de hamaca.');
     }
-    
+
     if (i === 163) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Onde Valentina.');
     }
-    
+
     if (i === 164) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Otro mes.');
     }
-    
+
     if (i === 165) {
         img.setAttribute('data-card', 'true');
         img.setAttribute('data-text', 'Sombras.');
