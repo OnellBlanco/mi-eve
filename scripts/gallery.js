@@ -429,7 +429,7 @@ for (let i = 1; i <= totalImages; i++) {
 
     if (i === 165) {
         img.setAttribute('data-card', 'true');
-        img.setAttribute('data-text', 'Sombras.');
+        img.setAttribute('data-text', 'Amor mira nuestras sombras.');
     }
 
     // Añade el evento de clic a cada imagen para abrir el modal.
