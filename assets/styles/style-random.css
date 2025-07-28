@@ -128,6 +128,30 @@ body.dark-mode .description {
 }
 
 /* ===========================
+    BARRA DE SCROLL
+   =========================== */
+
+/* Estilo general del scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+    height: 8px;
+}
+
+/* Track (fondo del scroll) */
+::-webkit-scrollbar-track {
+    background: #eee; /* Modo claro */
+    border-radius: 100px;
+    margin: 2px;
+}
+
+/* Thumb (la barra que se mueve) */
+::-webkit-scrollbar-thumb {
+    background: var(--color-secundario);
+    border-radius: 100px;
+    transition: background 0.3s ease;
+}
+
+/* ===========================
    BOTONES
    =========================== */
 .button {
