@@ -1,10 +1,10 @@
 /* ===========================
-   IMPORTS Y VARIABLES
+    IMPORTS Y VARIABLES
    =========================== */
 @import url('./theme.css');
 
 /* ===========================
-   ESTILOS GENERALES Y FONDO
+    ESTILOS GENERALES Y FONDO
    =========================== */
 body {
     font-family: 'Segoe UI', sans-serif;
@@ -24,7 +24,7 @@ body {
 }
 
 /* ===========================
-   CONTENEDOR PRINCIPAL
+    CONTENEDOR PRINCIPAL
    =========================== */
 .container {
     width: 90%;
@@ -65,7 +65,7 @@ body.dark-mode .main-content {
 }
 
 /* ===========================
-   SECCIONES DE TEXTO E IMAGEN
+    SECCIONES DE TEXTO E IMAGEN
    =========================== */
 .text-section {
     flex: 1;
@@ -84,7 +84,7 @@ body.dark-mode .main-content {
 }
 
 /* ===========================
-   IMAGEN PRINCIPAL
+    IMAGEN PRINCIPAL
    =========================== */
 .picture {
     width: 100%;
@@ -99,7 +99,7 @@ body.dark-mode .picture {
 }
 
 /* ===========================
-   TÍTULOS Y DESCRIPCIÓN
+    TÍTULOS Y DESCRIPCIÓN
    =========================== */
 .title-main,
 .title {
@@ -152,7 +152,7 @@ body.dark-mode .description {
 }
 
 /* ===========================
-   BOTONES
+    BOTONES
    =========================== */
 .button {
     background-color: var(--color-secundario);
@@ -183,7 +183,7 @@ body.dark-mode .button:hover{
 }
 
 /* ===========================
-   CABECERA
+    CABECERA
    =========================== */
 .header {
     width: 90%;
@@ -202,7 +202,7 @@ body.dark-mode .header {
 }
 
 /* ===========================
-   BOTÓN MODO OSCURO
+    BOTÓN MODO OSCURO
    =========================== */
 .dark-mode-toggle {
     background: none;
@@ -225,7 +225,7 @@ body.dark-mode .dark-mode-toggle {
 }
 
 /* ===========================
-   TRANSICIONES Y COLORES MODO OSCURO
+    TRANSICIONES Y COLORES MODO OSCURO
    =========================== */
 body,
 .container,
@@ -249,7 +249,7 @@ body.dark-mode {
 }
 
 /* ===========================
-   RESPONSIVO
+    RESPONSIVO
    =========================== */
 @media (max-width: 900px) {
 
@@ -301,7 +301,7 @@ body.dark-mode {
 }
 
 /* ===========================
-   ELIMINA EL RESALTADO AZUL EN MÓVIL
+    ELIMINA EL RESALTADO AZUL EN MÓVIL
    =========================== */
 * {
     -webkit-tap-highlight-color: transparent;
